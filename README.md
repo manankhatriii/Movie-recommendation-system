@@ -1,3 +1,6 @@
 # Movie-recommendation-system
 
-app.py ==> 
+In this project, I utilized a movie dataset to build a recommendation system. I performed preprocessing, feature engineering, and data visualizations. I used Principal Component Analysis (PCA) and the elbow method to determine the optimal number of clusters. I created cluster plots and conducted a grid search for optimizing the Random Forest model. For movie similarity predictions, I employed cosine similarity and a Random Forest classifier.
+
+I developed a Streamlit application that allows users to select a movie from a drop-down list and displays the 10 most similar movies.In this project, I utilized a movie dataset to build a recommendation system. I performed preprocessing, feature engineering, and data visualizations. I used Principal Component Analysis (PCA) and the elbow method to determine the optimal number of clusters. I created cluster plots and conducted a grid search for optimizing the Random Forest model. For movie similarity predictions, I employed cosine similarity and a Random Forest classifier. I developed a Streamlit application that allows users to select a movie from a drop-down list and displays the 10 most similar movies.
+Skills: Unsupervised Learning · Machine Learning · EDA · Streamlit · Data Visualization · Supervised Learning · Hyperparameter Optimization
